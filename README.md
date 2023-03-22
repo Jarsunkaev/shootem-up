@@ -1,6 +1,6 @@
 # Shoot'em up Game
 
-Game test task
+A JavaScirpt game
 
 # Set up
 
